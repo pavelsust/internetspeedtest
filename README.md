@@ -5,8 +5,7 @@
 
 <p>Here we used a open source library</p>
 
-
-<a href="https://github.com/oatrice/internet-speed-testing">Github Link</a>
+This demo application base on https://github.com/oatrice/internet-speed-testing
 
 
 <p align="center">
