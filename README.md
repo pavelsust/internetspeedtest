@@ -3,7 +3,11 @@
 
 ## This is a simple demo project where we can test our internet speed. 
 
-<p>Here we used a library</p>
+<p>Here we used a open source library</p>
+
+
+<a href="https://github.com/oatrice/internet-speed-testing">Github Link</a>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/paveltech/internetspeedtest/master/device-2018-12-15-171100.png" width="350"/>
