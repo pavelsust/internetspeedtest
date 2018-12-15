@@ -8,11 +8,11 @@
     tools:context=".MainActivity"
     tools:showIn="@layout/activity_main">
 
-    <com.github.anastr.speedviewlib.PointerSpeedometer
-        android:id="@+id/pointerSpeedometer"
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        app:sv_textColor="@color/colorPrimaryDark"/>
+    <com.github.anastr.speedviewlib.SpeedView
+        android:id="@+id/speedViewIndicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
 
 
 </android.support.constraint.ConstraintLayout>
