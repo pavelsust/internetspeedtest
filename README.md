@@ -9,5 +9,8 @@ This demo application based on https://github.com/oatrice/internet-speed-testing
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paveltech/internetspeedtest/master/device-2018-12-15-171100.png" width="350"/>
+  <img src="https://raw.githubusercontent.com/paveltech/internetspeedtest/master/device-2018-12-15-171100.png" width="250"/>
 </p>
+
+## Contributing
+Suggestions and pull requests are highly encouraged.
